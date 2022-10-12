@@ -93,4 +93,8 @@ Build/Android/res/*/*
 Plugins/**/Binaries/*
 Plugins/**/Intermediate/*
 
+PlatFormer/Saved/
+PlatFormer/Saved/*
+PlatFormer/Intermediate/
+PlatFormer/Intermediate/*
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
