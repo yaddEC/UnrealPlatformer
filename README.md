@@ -16,7 +16,8 @@ DECHAUX Yann        -   (y.dechaux@student.isartdigital.com)
 	As with many common scripting languages, it is used to define object-oriented (OO) classes or objects in the engine.
 - Level Design : 
 	It also allows us to work on our level design skills.
-	Our current game world was made only with cubes, cylinders, cones and spheres.
+	Our current game world [PlatFormer/Content/StarterContent/Maps/PlatScene.umap]
+	was made only with cubes, cylinders, cones and spheres.
 	
 	 
 	
@@ -28,8 +29,9 @@ DECHAUX Yann        -   (y.dechaux@student.isartdigital.com)
 
 
 ## PLAYER - CONTROLS
-- A - D : Left/right
+- A - D : Left/Right
 - W - S : Forward/Backward
+- Space : Jump
 - Mouse : Rotation
 
 
