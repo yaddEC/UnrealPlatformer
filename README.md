@@ -29,8 +29,8 @@ DECHAUX Yann        -   (y.dechaux@student.isartdigital.com)
 
 
 ## PLAYER - CONTROLS
-- A - D : Left/Right
-- W - S : Forward/Backward
+- A/Left - D/Right : Left/Right
+- W/Up - S/Down : Forward/Backward
 - Space : Jump
 - Mouse : Rotation
 
