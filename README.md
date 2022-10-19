@@ -14,6 +14,9 @@ DECHAUX Yann        -   (y.dechaux@student.isartdigital.com)
 - Blueprint : the Blueprint Visual Scripting system in Unreal Engine is a complete gameplay scripting system based 
 	on the concept of using a node-based interface to create gameplay elements from within Unreal Editor.
 	As with many common scripting languages, it is used to define object-oriented (OO) classes or objects in the engine.
+- Level Design : 
+	It also allows us to work on our level design skills.
+	Our current game world was made only with cubes, cylinders, cones and spheres.
 	
 	 
 	
@@ -21,7 +24,7 @@ DECHAUX Yann        -   (y.dechaux@student.isartdigital.com)
 
 
 ## SCENE
-<img src="">
+<img src="PlatFormer/Content/LevelScreenShot.png">
 
 
 ## PLAYER - CONTROLS
@@ -32,7 +35,7 @@ DECHAUX Yann        -   (y.dechaux@student.isartdigital.com)
 
 
 ## SCENE - CONTROLS
-- K : To switch to First Person Camera/ Third Person Camera 
+- K : Switch to First Person Camera/ Third Person Camera 
 - ESCAPE     : Quit the apllication
 
 
